@@ -146,7 +146,6 @@ def check_diagonals():
         return board[2]
     return
 
-
 def check_if_tie():
     global game_still_going
     if "-" not in board :
